@@ -17,7 +17,7 @@ It fetches real-time movie data from The Movie Database (TMDB) API and presents 
 
 - ## 📸 Preview
 
-![Streamflix Screenshot](assets/image.png)
+![Streamflix Screenshot](src/assets/image.png)
 
 - 📌 Purpose
 
